@@ -12,8 +12,9 @@ CLI Roku Remote is a Python-based command-line application that allows you to co
 Before using the CLI Roku Remote, make sure you have the following prerequisites installed:
 
 1.Python (usually pre-installed.)
+
 ```
-python --verion
+python --version
 
 ```
 
