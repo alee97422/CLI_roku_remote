@@ -44,9 +44,10 @@ python app.py
 
 2. You will then be prompted to enter the roku IP address(I've added space to keep track of a few of  your frequent devices you just have to change the asterisks to the IP address). You can find your Roku's IP address in the Roku settings or by using nmap
 
-![CLI_ipaddr](ipaddr.png)
+[![CLI_ipaddr](ipaddr.png)](https://github.com/alee97422/flipper)
+
 <!-- part 1 of 2: Y29tbWl0X09SX2J -->
-<!-- flag will be in text format! click the button above to find the other half --> 
+<!-- flag will be in TEXT.....   ( the picture above will take you to my flipper repo) --> 
 
 
 3. To control your Roku device, you can use the following commands:
