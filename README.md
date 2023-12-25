@@ -42,7 +42,7 @@ python app.py
 
 ```
 
-2. You will then be prompted to enter the roku IP address(I've added space to keep track of a few of  your frequent devices you just have to change the asterisks to the IP address). You can find your Roku's IP address in the Roku settings or by using nmap {look at the markdown here}
+2. You will then be prompted to enter the roku IP address(I've added space to keep track of a few of  your frequent devices you just have to change the asterisks to the IP address). You can find your Roku's IP address in the Roku settings or by using nmap {look at the the markdown}
 
 [![CLI_ipaddr](ipaddr.png)](https://github.com/alee97422/flipper)
 
